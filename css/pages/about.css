@@ -1,0 +1,7 @@
+/* ABOUT SECTION POLISH */
+.about-section .section-heading-row{margin-bottom:60px}
+.about-section .about-topline{margin-bottom:65px}
+.about-portrait img{transition:filter .6s var(--ease),transform .8s var(--ease)}
+.about-portrait:hover img{filter:saturate(1);transform:translate(-5px,-5px)}
+.career-row{transition:padding .3s var(--ease)}
+.career-row:hover{padding-left:10px}
